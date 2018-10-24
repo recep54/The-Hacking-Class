@@ -17,3 +17,10 @@ Puis :
 - rails db:seed
 
 Enfin pour pourrez lancer la console et voir nos meuilleurs cours et les Best student.
+
+Il y a 2 table cours et students 
+
+Pour voir les eleves et les cours vous pouvez taper dans la console (rails c):
+
+- Student.all
+- Cour.all
