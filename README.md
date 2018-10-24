@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Hacking Class
 
-Things you may want to cover:
+Ce project contient une basse de donné ou il y a plusieurs cours et des éleves. Un eleve peut s'inscrie à un seul cour mais un cours peut contenir plusieurs élève NORMAL quoi.
 
-* Ruby version
+Pour lance ce magnifique projet vous devez tout d'abord faire :
 
-* System dependencies
+- bundle install
 
-* Configuration
+ensuite: 
 
-* Database creation
+- rails db:migrate
 
-* Database initialization
+Puis :
 
-* How to run the test suite
+- rails db:seed
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Enfin pour pourrez lancer la console et voir nos meuilleurs cours et les Best student.
