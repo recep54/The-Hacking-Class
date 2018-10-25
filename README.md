@@ -2,7 +2,7 @@
 
 The Hacking Class
 
-Ce project contient une basse de donné ou il y a plusieurs cours et des éleves. Un eleve peut s'inscrie à un seul cour mais un cours peut contenir plusieurs élève NORMAL quoi.
+Ce project contient une base de donnée où il y a plusieurs cours et des éleves. Un eleve peut s'inscrie à un seul cour mais un cours peut contenir plusieurs élève NORMAL quoi.
 
 Pour lance ce magnifique projet vous devez tout d'abord faire :
 
